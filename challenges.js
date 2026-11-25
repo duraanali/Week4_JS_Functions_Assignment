@@ -23,7 +23,9 @@ Output: "The late fee is $2.50."
 // Extra Task:
 // - Convert the function into a function expression.
 
-
+function add(a, b) {
+   return a + b
+}
 
 /*
 Task 2 : Favorite Color Finder 🚀🚀🚀🚀
